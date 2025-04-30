@@ -2,7 +2,7 @@
 
 For CS456 University of Waterloo  
 Implements and simulates a unidirectional reliable data transfer over UDP. It successfully transfers a text file from one host to another even in a simulated unreliable network. It deals with packet loss, orders packet correctly, and utilizes duplicate packets.  
-You'll need to download Python  
+You'll need to download Python 3   
 To run:  
 The network emulator requires Python 3. You can use the emulator either by executing the provided nEmulator script or by running `python3 network_emulator.py` directly.  
 Find usage instructions using ./nEmulator -h  
